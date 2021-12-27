@@ -1,2 +1,2 @@
-## Srock Site UI (TailwindCSS) BruceFE
+## JS webpack BruceFE
 - 初始空專案
