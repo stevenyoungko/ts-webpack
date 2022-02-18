@@ -1,2 +1,2 @@
 import "./index.css";
-import './ch7/ch7_1'
+import './ch7/ch7_2'
